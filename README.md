@@ -1,2 +1,2 @@
 # lab6-skeleton
-Template repo var lab6
+Template repo for lab6
